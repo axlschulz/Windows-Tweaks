@@ -1,0 +1,7 @@
+# https://www.borncity.com/blog/2025/11/03/windows-11-folder-auto-discovery-bremst-explorer-optionen-zum-abschalten/
+#
+# 
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell] 
+"FolderType"="NotSpecified"
